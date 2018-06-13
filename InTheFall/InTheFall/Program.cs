@@ -10,6 +10,7 @@ namespace InTheFall
             Console.WriteLine("Brookfield Central");
             Console.WriteLine("Brookfield East High School");
             Console.WriteLine("Emily - UW Madison");
+            Console.WriteLine("UW Madison");
             Console.ReadKey();
         }
     }
