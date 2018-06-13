@@ -7,6 +7,9 @@ namespace InTheFall
         static void Main(string[] args)
         {
             Console.WriteLine("Where are you going to be in the fall?");
+            Console.WriteLine("Brookfield Central");
+            Console.WriteLine("Brookfield East High School");
+            Console.WriteLine("Emily - UW Madison");
             Console.WriteLine("UW Madison");
             Console.ReadKey();
         }
