@@ -7,7 +7,6 @@ namespace InTheFall
         static void Main(string[] args)
         {
             Console.WriteLine("Where are you going to be in the fall?");
-            Console.WriteLine("School");
             Console.ReadKey();
         }
     }
